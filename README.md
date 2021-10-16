@@ -12,7 +12,15 @@ Mon objectif, en qualité de développeur web (front end) c’est de continuer �
 Expertise dans le domaine
 Entant qu’informaticien, je travaille comme assistant en administration réseau information pendant environ 5 ans ; j’ai été entre autres formateur en informatique pendant plus de 5 ans. J’ai une longue carrière, plus de 5 ans, comme technicien support informatique niveau 1 et 2. Du coté de développement web, c’est une étude récente où je n’ai pas encore d’expériences de travail cependant mes champs de connaissances dans le développement web me faciliteront à développer très rapidement mes compétences. 
 
+
+ Expertise dans le domaine
  
+Entant qu’informaticien, je travaille comme assistant administrateur réseau information pendant environ 5 ans ; 
+j’ai été entre autres formateur en informatique pendant plus de 5 ans. 
+J’ai une longue carrière, plus de 5 ans, comme technicien support informatique niveau 1 et 2. 
+Du coté de développement web, c’est une étude récente où je n’ai pas encore d’expériences de travail cependant mes champs de connaissances dans le développement web me faciliteront à développer très rapidement mes compétences. 
+
+
 Champs de compétences
 
 
