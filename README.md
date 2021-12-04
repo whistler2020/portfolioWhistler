@@ -30,3 +30,4 @@ Dans le domaine informatique, mes champs de compétences se basent sur :
 3-	En réseau informatique : on peut préciser le réseau distribué
 4-	4- en base de données : c’est sql serveur
 
+Ce lien ci-apres vous permettra de vous rediriger a ma page d'accueil: https://github.com/whistler2020.
