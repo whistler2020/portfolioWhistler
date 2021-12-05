@@ -28,6 +28,10 @@ Dans le domaine informatique, mes champs de compétences se basent sur :
 1-	La programmation comme le java
 2-	En développement web, on peut specifier : React, Angular, javascript, sass, css, bootstrap,php, mysql.
 3-	En réseau informatique : on peut préciser le réseau distribué
-4-	4- en base de données : c’est surtout le sql serveur
+4-	4- en base de données : c’est surtout le sql serveur. 
+
+Perspective d'avenir
+
+Je suis beaucoup plus expérimenté dans la technique informatique et le réseau informatique ; mais mon perspective d’avenir vise à développer une grande capacité en développement web dans les 3 à 5 prochaines années.
 
 Ce lien ci-apres vous permettra de vous rediriger a ma page d'accueil: https://github.com/whistler2020.
